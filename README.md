@@ -5,7 +5,7 @@
 
 # 💻 Jacob Bowman
 
-**`Digital Craftsman (Developer/Creator/Artist)'**
+**`Digital Craftsman (Developer/Creator/Artist)`**
 
 Bio
 

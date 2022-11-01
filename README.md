@@ -7,7 +7,7 @@
 
 **`Digital Craftsman (Developer/Creator/Artist)`**
 
-Bio
+Bio pending...
 
 <p align="left">
     <a href="https://github.com/jbowwman8991?tab=followers">
@@ -61,6 +61,8 @@ Bio
 
 ### ⌨️ Recent Projects
 
+<a href="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
+
 # 
 
 ### 📊 Stats
@@ -71,5 +73,5 @@ Bio
 
 <details>
     <summary><h3>🏔️ Jacob's Coding Journey</h3></summary>
-    Add coding Journey
+    <a href="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
 </details>

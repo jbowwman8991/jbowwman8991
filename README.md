@@ -25,21 +25,23 @@ Bio
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 
 <br><br>
 
-<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 
 <br><br>
@@ -49,6 +51,9 @@ Bio
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain.svg" />
+<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 
 <br><br>
 

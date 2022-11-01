@@ -61,7 +61,7 @@ Bio pending...
 
 ### ⌨️ Recent Projects
 
-<a href="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
+<img src="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
 
 # 
 
@@ -73,5 +73,5 @@ Bio pending...
 
 <details>
     <summary><h3>🏔️ Jacob's Coding Journey</h3></summary>
-    <a href="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
+    <img src="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
 </details>

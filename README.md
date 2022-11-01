@@ -10,6 +10,8 @@
 Bio
 
 <p align="left">
-    <a href="https://github.com/jbowwman8991?tab=followers">Follow</a>
+    <a href="https://github.com/jbowwman8991?tab=followers">
+        <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>
+    </a>
     <a href="https://github.com/jbowwman8991?tab=repositories">Repos</a>
 </p>

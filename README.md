@@ -26,17 +26,17 @@ Bio
           
 #
 
-### Recent Projects
+### ⌨️ Recent Projects
 
 # 
 
-### Stats
+### 📊 Stats
 
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbowwman8991&show_icons=true&theme=tokyonight)
 
 #
 
 <details>
-    <summary><h3>Jacob's Coding Journey</h3></summary>
+    <summary><h3>🏔️ Jacob's Coding Journey</h3></summary>
     Add coding Journey
 </details>

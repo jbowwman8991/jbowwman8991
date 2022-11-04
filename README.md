@@ -7,7 +7,7 @@
 
 **`Digital Craftsman (Developer/Creator/Artist)`**
 
-Bio pending...
+Hello there!
 
 <p align="left">
     <a href="https://github.com/jbowwman8991?tab=followers">

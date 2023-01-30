@@ -56,7 +56,7 @@ Hello there!
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 
 <br><br>
-
+<!--
 #
 
 ### ⌨️ Recent Projects
@@ -64,14 +64,15 @@ Hello there!
 <img src="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
 
 # 
-
+-->
 ### 📊 Stats
 
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbowwman8991&show_icons=true&theme=tokyonight)
 
 #
-
+<!--
 <details>
     <summary><h3>🏔️ Jacob's Coding Journey</h3></summary>
     <img src="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
 </details>
+-->

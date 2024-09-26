@@ -61,8 +61,8 @@ I am a passionate and creative software, web and app developer with a strong com
 <br><br>
 -->
 
-## Skills
-### Web and App Development 
+<h2>Skills</h2>
+<h3>Web and App Development</h3>
 <ul>
     <li>HTML</li>
     <li>CSS</li>

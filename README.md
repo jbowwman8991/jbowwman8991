@@ -78,13 +78,13 @@ I am a passionate and creative software, web and app developer with a strong com
 <img src="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
 -->
 
-# 
+--- 
 
 ## 📊 Stats
 
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbowwman8991&show_icons=true&theme=tokyonight)
 
-#
+--- 
 
 <!--
 ### 🏔️ My Coding Journey

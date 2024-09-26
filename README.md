@@ -22,6 +22,7 @@ I am a passionate and creative software, web and app developer with a strong com
 
 ---
 
+<!--
 ### 🧰 Languages and Tools
 
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -58,7 +59,9 @@ I am a passionate and creative software, web and app developer with a strong com
 <img align="left" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 
 <br><br>
+-->
 
+<!--
 #
 
 ### ⌨️ Recent Projects
@@ -66,6 +69,7 @@ I am a passionate and creative software, web and app developer with a strong com
 <img src="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
 
 # 
+-->
 
 ### 📊 Stats
 
@@ -73,6 +77,7 @@ I am a passionate and creative software, web and app developer with a strong com
 
 #
 
+<!--
 ### 🏔️ My Coding Journey
 <img src="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
-
+-->

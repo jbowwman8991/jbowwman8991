@@ -7,7 +7,7 @@
 
 **`Digital Craftsman (Developer/Creator/Artist)`**
 
-Hello there!
+I am a passionate and creative software, web and app developer with a strong commitment to delivering high-quality digital solutions. With several years of experience under my belt, I've had the privilege of working on a diverse range of projects, each presenting its unique challenges and opportunities. My mission is to transform ideas into interactive, user-friendly, and visually stunning digital experiences.
 
 <p align="left">
     <a href="https://github.com/jbowwman8991?tab=followers">

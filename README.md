@@ -1,15 +1,13 @@
 
-<style>
-    .column {
-        float: left;
-        width: 50%;
-    }
-    .row:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
-</style>
+{{< columns >}}
+
+  Pariatur voluptate ea eiusmod eiusmod. Cillum culpa anim ad incididunt.
+
+{{< column >}}
+
+  Adipisicing et culpa cillum exercitation in id dolor. Ut consectetur fugiat...
+
+{{< endcolumns >}}
 
 
 <!--

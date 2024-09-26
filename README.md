@@ -61,17 +61,52 @@ I am a passionate and creative software, web and app developer with a strong com
 <br><br>
 -->
 
+## Skills
+### Web and App Development 
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>React</li>
+    <li>React Native</li>
+    <li>Flutter</li>
+</ul>
+### Backend Development 
+<ul>
+    <li>Golang</li>
+    <li>Node.js</li>
+    <li>Python</li>
+    <li>Java</li>
+</ul>
+### Databases 
+<ul>
+    <li>SQL</li>
+    <li>MongoDB</li>
+    <li>AWS</li>
+    <li>GCP</li>
+    <li>Firebase</li>
+</ul>
+### Design 
+<ul>
+    <li>3D Modeling</li>
+    <li>Blender</li>
+    <li>Maya</li>
+    <li>Nomad Sculpt</li>
+    <li>Figma</li>
+    <li>Procreate</li>
+</ul>
+
 <!--
 #
 
 ### ⌨️ Recent Projects
 
 <img src="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
-
-# 
 -->
 
-### 📊 Stats
+# 
+
+## 📊 Stats
 
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbowwman8991&show_icons=true&theme=tokyonight)
 

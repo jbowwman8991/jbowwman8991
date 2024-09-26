@@ -1,13 +1,8 @@
 
-{{< columns >}}
-
-  Pariatur voluptate ea eiusmod eiusmod. Cillum culpa anim ad incididunt.
-
-{{< column >}}
-
-  Adipisicing et culpa cillum exercitation in id dolor. Ut consectetur fugiat...
-
-{{< endcolumns >}}
+{{% row %}}
+{{% column % }}something{{% /column %}}
+{{% column % }}something else{{% /column %}}
+{{% /row %}}
 
 
 <!--

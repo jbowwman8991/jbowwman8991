@@ -1,8 +1,15 @@
 
-{{% row %}}
-{{% column % }}something{{% /column %}}
-{{% column % }}something else{{% /column %}}
-{{% /row %}}
+{{< row >}}
+{{< column>}}
+something1
+{{< /column>}}
+{{< column>}}
+something1
+{{< /column>}}
+{{< column>}}
+something1
+{{< /column>}}
+{{< /row >}}
 
 
 <!--

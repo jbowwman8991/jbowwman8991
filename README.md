@@ -1,17 +1,3 @@
-
-{{< row >}}
-{{< column>}}
-something1
-{{< /column>}}
-{{< column>}}
-something1
-{{< /column>}}
-{{< column>}}
-something1
-{{< /column>}}
-{{< /row >}}
-
-
 <!--
 **jbowwman8991/jbowwman8991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -75,41 +61,13 @@ I am a passionate and creative software, web and app developer with a strong com
 -->
 
 <h2>Skills</h2>
-<h3>Web and App Development</h3>
 <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>React</li>
-    <li>React Native</li>
-    <li>Flutter</li>
-</ul>
-
-### Backend Development 
-<ul>
-    <li>Golang</li>
-    <li>Node.js</li>
-    <li>Python</li>
-    <li>Java</li>
-</ul>
-
-### Databases 
-<ul>
-    <li>SQL</li>
-    <li>MongoDB</li>
-    <li>AWS</li>
-    <li>GCP</li>
-    <li>Firebase</li>
-</ul>
-
-### Design 
-<ul>
-    <li>3D Modeling</li>
-    <li>Blender</li>
-    <li>Maya</li>
-    <li>Nomad Sculpt</li>
-    <li>Figma</li>
-    <li>Procreate</li>
+    <li>Web Development - HTML, CSS, JavaScript, React, React Native, Flutter</li>
+    <li>Backend Development - Golang, Node.js, Python, Java</li>
+    <li>Databases - SQL, MongoDB, AWS, GCP, Firebase</li>
+    <li>Git, GitHub, GitHub Actions</li>
+    <li>3D Modeling, Blender, Maya, Nomad Sculpt</li>
+    <li>UI/UX Design, Figma, Procreate, User Research</li>
 </ul>
 
 <!--

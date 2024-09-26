@@ -71,6 +71,7 @@ I am a passionate and creative software, web and app developer with a strong com
     <li>React Native</li>
     <li>Flutter</li>
 </ul>
+
 ### Backend Development 
 <ul>
     <li>Golang</li>
@@ -78,6 +79,7 @@ I am a passionate and creative software, web and app developer with a strong com
     <li>Python</li>
     <li>Java</li>
 </ul>
+
 ### Databases 
 <ul>
     <li>SQL</li>
@@ -86,6 +88,7 @@ I am a passionate and creative software, web and app developer with a strong com
     <li>GCP</li>
     <li>Firebase</li>
 </ul>
+
 ### Design 
 <ul>
     <li>3D Modeling</li>

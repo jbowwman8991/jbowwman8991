@@ -71,8 +71,6 @@ I am a passionate and creative software, web and app developer with a strong com
 
 #
 
-<details>
-    <summary><h3>🏔️ Jacob's Coding Journey</h3></summary>
-    <img src="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
-</details>
+### 🏔️ My Coding Journey
+<img src="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
 

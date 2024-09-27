@@ -16,16 +16,15 @@ jbowman8991@gmail.com |
 [Portfolio Website](https://www.bodine17.com) | 
 [LinkedIn](www.linkedin.com/in/1917-jacob-bowman)
 
-<!--
 <p align="left">
     <a href="https://github.com/jbowwman8991?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jbowwman8991?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
+    <br>
     <a href="https://github.com/jbowwman8991?tab=repositories">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jbowwman8991?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>    
     </a>
 </p>
--->
 
 ---
 

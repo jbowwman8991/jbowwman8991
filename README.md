@@ -61,6 +61,7 @@ I am a passionate and creative software, web and app developer with a strong com
 -->
 
 ## 🧰 Skills
+
 <ul>
     <li>Web Development - HTML, CSS, JavaScript, React, React Native, Flutter</li>
     <li>Backend Development - Golang, Node.js, Python, Java</li>

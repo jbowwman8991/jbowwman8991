@@ -2,7 +2,10 @@
 **jbowwman8991/jbowwman8991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 💻 Jacob Bowman
+
+![image](https://github.com/user-attachments/assets/00ca8137-839b-42f9-b770-89f0a1fada39)
+
+# I'm Jacob Bowman
 
 **`Digital Craftsman (Developer/Creator/Artist)`**
 

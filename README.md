@@ -95,12 +95,16 @@ jbowman8991@gmail.com |
 
 <p align="left">
     <a href="https://github.com/jbowwman8991">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jbowwman8991&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jbowwman8991&langs_count=12&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
+        <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jbowwman8991&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    </a>  
 </p>
 <p align="left">
-    <a href="https://github.com/jbowwman8991"> 
-        <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=jbowwman8991&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true" /> 
+    <a href="https://github.com/jbowwman8991">
+        <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jbowwman8991&langs_count=12&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>  
+</p>
+<p align="left">
+    <a href="https://github.com/jbowwman8991">
+        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jbowwman8991&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true" /> 
     </a>  
 </p>

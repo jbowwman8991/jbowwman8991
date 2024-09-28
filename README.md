@@ -2,7 +2,6 @@
 **jbowwman8991/jbowwman8991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
 ![image](https://github.com/user-attachments/assets/00ca8137-839b-42f9-b770-89f0a1fada39)
 
 # I'm Jacob Bowman
@@ -20,13 +19,10 @@ jbowman8991@gmail.com |
     <a href="https://github.com/jbowwman8991?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jbowwman8991?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
-    <br>
     <a href="https://github.com/jbowwman8991?tab=repositories">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jbowwman8991?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>    
     </a>
 </p>
-
----
 
 ## 🧰 Skills
 
@@ -86,8 +82,6 @@ jbowman8991@gmail.com |
 <img src="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
 -->
 
---- 
-
 ## 📊 Stats
 
 <!--
@@ -99,17 +93,14 @@ jbowman8991@gmail.com |
 <img src="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Picture.png" />
 -->
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/jbowwman8991">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jbowwman8991&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jbowwman8991&langs_count=12&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
-<p align="center">
+<p align="left">
     <a href="https://github.com/jbowwman8991"> 
         <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=jbowwman8991&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true" /> 
     </a>  
 </p>
-
----
-

@@ -11,7 +11,7 @@
 I am a passionate and creative software, web and app developer with a strong commitment to delivering high-quality digital solutions. With several years of experience under my belt, I've had the privilege of working on a diverse range of projects, each presenting its unique challenges and opportunities. My mission is to transform ideas into interactive, user-friendly, and visually stunning digital experiences.
 
 jbowman8991@gmail.com | 
-[Resume](https://github.com/jbowwman8991/jbowwman8991/blob/main/Jacob%20Bowman%20Resume%20Sep.%202024.pdf) | 
+[Resume]([https://github.com/jbowwman8991/jbowwman8991/blob/main/Jacob%20Bowman%20Resume%20Sep.%202024.pdf](https://github.com/jbowwman8991/jbowwman8991/blob/main/Jacob%20Bowman%20Resume%20Full%20Apr.%202025.pdf)) | 
 [Portfolio Website](https://www.bodine17.com) | 
 [LinkedIn](www.linkedin.com/in/1917-jacob-bowman)
 
